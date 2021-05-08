@@ -1,0 +1,142 @@
+collecting data for cardano
+info for cardano: 
+{'Coin strength': 96,
+ 'GitHub': 40,
+ 'Product strength': 108,
+ 'Team strength': 100,
+ 'google-trend': 75,
+ 'nvt': 100,
+ 'target': 100,
+ 'twitter-followers': 60}
+My FA score for cardano: 84.88
+
+score:
+{'coincheckup': 74.0,
+ 'coingecko': 70,
+ 'my_fa_score': 84.875,
+ 'simetri': 40,
+ 'weisscrypto': 50}
+Final FA score for cardano is: 63.77
+
+
+ ------------------------------------ 
+
+
+collecting data for polkadot-new
+info for polkadot-new: 
+{'Coin strength': None,
+ 'GitHub': None,
+ 'Product strength': None,
+ 'Team strength': None,
+ 'google-trend': None,
+ 'nvt': None,
+ 'target': None,
+ 'twitter-followers': 60}
+My FA score for polkadot-new: 60.00
+
+score:
+{'coincheckup': None,
+ 'coingecko': None,
+ 'my_fa_score': 60.0,
+ 'simetri': None,
+ 'weisscrypto': 30}
+Final FA score for polkadot-new is: 45.00
+
+
+ ------------------------------------ 
+
+
+collecting data for xrp
+info for xrp: 
+{'Coin strength': 75,
+ 'GitHub': None,
+ 'Product strength': 80,
+ 'Team strength': 71,
+ 'google-trend': 75,
+ 'nvt': None,
+ 'target': 100,
+ 'twitter-followers': 100}
+My FA score for xrp: 83.50
+
+score:
+{'coincheckup': 76.0,
+ 'coingecko': 70,
+ 'my_fa_score': 83.5,
+ 'simetri': None,
+ 'weisscrypto': 30}
+Final FA score for xrp is: 64.88
+
+
+ ------------------------------------ 
+
+
+collecting data for dogecoin
+info for dogecoin: 
+{'Coin strength': 79,
+ 'GitHub': 40,
+ 'Product strength': 100,
+ 'Team strength': 63,
+ 'google-trend': 100,
+ 'nvt': 100,
+ 'target': 100,
+ 'twitter-followers': 100}
+My FA score for dogecoin: 85.25
+
+score:
+{'coincheckup': 76.0,
+ 'coingecko': 60,
+ 'my_fa_score': 85.25,
+ 'simetri': None,
+ 'weisscrypto': 40}
+Final FA score for dogecoin is: 65.31
+
+
+ ------------------------------------ 
+
+
+collecting data for holo
+info for holo: 
+{'Coin strength': 75,
+ 'GitHub': None,
+ 'Product strength': 68,
+ 'Team strength': 66,
+ 'google-trend': 75,
+ 'nvt': None,
+ 'target': 100,
+ 'twitter-followers': 20}
+My FA score for holo: 67.33
+
+score:
+{'coincheckup': 66.0,
+ 'coingecko': 50,
+ 'my_fa_score': 67.33333333333333,
+ 'simetri': 40,
+ 'weisscrypto': None}
+Final FA score for holo is: 55.83
+
+
+ ------------------------------------ 
+
+
+collecting data for tron
+info for tron: 
+{'Coin strength': 83,
+ 'GitHub': 40,
+ 'Product strength': 108,
+ 'Team strength': 66,
+ 'google-trend': 50,
+ 'nvt': 100,
+ 'target': 100,
+ 'twitter-followers': 100}
+My FA score for tron: 80.88
+
+score:
+{'coincheckup': 80.0,
+ 'coingecko': 70,
+ 'my_fa_score': 80.875,
+ 'simetri': 50,
+ 'weisscrypto': 30}
+Final FA score for tron is: 62.17
+
+
+ ------------------------------------ 
